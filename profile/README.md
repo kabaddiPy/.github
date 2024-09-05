@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+
+This is the `README` for the `kabaddiPy` package. 
+
+This package is a Python package that provides a set of tools for analyzing Kabaddi data. 
+
+## Install
+
+```sh
+pip install pro_kabaddi_data
+```
+
+
 <!--
 
 **Here are some ideas to get you started:**
