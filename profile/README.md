@@ -1,4 +1,4 @@
-## Hi there 👋
+## kabaddiPy 
 
 
 This is the `README` for the `kabaddiPy` package. 
