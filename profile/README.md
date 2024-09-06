@@ -18,7 +18,7 @@ PyPi Link: https://pypi.org/manage/project/kabbaddipy/settings/
 
 Repo: https://github.com/kabaddiPy/kabaddiPy
 
-Historical Data: https://github.com/kabaddiPy/kabaddi-data
+Historical Data: https://github.com/kabaddiPy/kabaddiPy-data
 
 
 
