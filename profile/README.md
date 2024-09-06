@@ -8,8 +8,15 @@ This package is a Python package that provides a set of tools for analyzing Kaba
 ## Install
 
 ```sh
-pip install pro_kabaddi_data
+pip install kabaddiPy
 ```
+
+
+Documentation: https://kabaddipy.github.io/kabaddiPy/
+
+PyPi Link: <insert_link>
+
+Repo: https://github.com/kabaddiPy/kabaddiPy
 
 
 
