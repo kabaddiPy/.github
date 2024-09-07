@@ -1,9 +1,7 @@
 ## kabaddiPy 
 
 
-This is the `README` for the `kabaddiPy` package. 
-
-This package is a Python package that provides a set of tools for analyzing Kabaddi data. 
+kabaddiPy is a Python module that provides tools for collecting and analyzing data from professional Kabaddi leagues. It uses web scraping techniques to gather information about teams, players, and match statistics from various online sources.
 
 ## Install
 
