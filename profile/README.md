@@ -12,7 +12,7 @@ pip install kabaddiPy
 
 Documentation: https://kabaddipy.github.io/kabaddiPy/
 
-PyPi Link: https://pypi.org/manage/project/kabbaddipy/settings/
+PyPi Link: https://pypi.org/project/kabaddiPy/
 
 Repo: https://github.com/kabaddiPy/kabaddiPy
 
